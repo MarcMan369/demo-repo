@@ -5,6 +5,7 @@ We need a hashtat for the name #
 This repository is to learn properly how to use GitHub.
 
 Although I have had a GitHub account for 2 years, I have not use it in its full capacity
-as I was still learning how to code, so I did not have any project.
+as I was still studying Cybersecurity, and therefore learning about things not directly related to coding.
+I have cloned some Blockchain projects for my Master degree's final project.
 
-I have cloned some Blockchain projects for y Master degree in Cybersecurity.
+Now, with the Le Wagon Bootcamo, I will learn and become a Full Stack Web Developer!
