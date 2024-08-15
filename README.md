@@ -9,3 +9,5 @@ as I was still studying Cybersecurity, and therefore learning about things not d
 I have cloned some Blockchain projects for my Master degree's final project.
 
 Now, with the Le Wagon Bootcamo, I will learn and become a Full Stack Web Developer!
+
+THIS IS A LOCAL CHANGE, DONE IN MY I7
